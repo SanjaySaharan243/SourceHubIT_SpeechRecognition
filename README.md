@@ -9,18 +9,18 @@ It then processes the audio and performs speech-to-text transcription using **Go
 
 ---
 
-## ✅ Features
-- 🎤 Record live audio from your microphone via the browser.
-- 📂 Upload MP3 or WAV audio files.
-- 🔄 Automatically converts MP3 to WAV format if necessary.
-- ⚡ Processes the audio using `speech_recognition`.
-- ✅ Uses Google’s Speech Recognition API for transcription.
-- 🚫 Gracefully handles errors (e.g., unrecognized audio, API issues).
-- 🌐 Simple web interface powered by **Gradio**.
+## Features
+-  Record live audio from your microphone via the browser.
+-  Upload MP3 or WAV audio files.
+-  Automatically converts MP3 to WAV format if necessary.
+-  Processes the audio using `speech_recognition`.
+-  Uses Google’s Speech Recognition API for transcription.
+-  Gracefully handles errors (e.g., unrecognized audio, API issues).
+-  Simple web interface powered by **Gradio**.
 ---
 
 
-## 🚀 How It Works
+##  How It Works
 1. User visits the web page hosted via **Gradio**.
 2. They can either:
     - Record audio live using the microphone.
